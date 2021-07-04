@@ -3,7 +3,8 @@
 > Variables
 ---
 ```python 
-test = "data"
-print(test)
- 
+Naam = "TestNaam"
+print(Naam)
 ```
+
+## Wat gaan we doen
