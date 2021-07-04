@@ -1,4 +1,4 @@
-<h1>Opdracht 2</h1>
+<font size="14">Opdracht 2</font>
 
 > Variables
 ---
