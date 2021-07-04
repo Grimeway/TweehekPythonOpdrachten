@@ -7,10 +7,7 @@ Hieronder zie je een voorbeeld
 
 print("michel")
 
-"""als je dit runt zie je onder in je scherm een tweede scherm opkomen
-hier zie je de terminal waar je je output ziet
-Dus bovenaan zie je Hallo World staan.
-"""
+
 
 
 # TODO: hoe zet je het op?
