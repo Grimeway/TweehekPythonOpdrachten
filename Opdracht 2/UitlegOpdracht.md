@@ -8,7 +8,7 @@
 ## Wat gaan we doen
 In deze opdracht leer je hoe en variable werkt.
 een variable wordt gemaakt door een naam te geven dan een `=` teken en dan de waarde. 
-####Voorbeeld: 
+#### Voorbeeld: 
 ```python 
 variableNaam = variablewaarde
 ```
