@@ -1,0 +1,10 @@
+# Opdracht 1
+
+> `print()`
+
+---
+
+## Wat gaan we doen:
+
+In deze eerste opdracht gaan we leren hoe we dingen kunnen uitprinten naar de console.
+
