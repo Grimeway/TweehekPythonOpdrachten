@@ -1,8 +1,6 @@
-# Opdracht 1
+<h1 style="margin: 0">Opdracht 1</h1>
 
 > `print()`
-
----
 
 ## Wat gaan we doen:
 
