@@ -1,4 +1,4 @@
-<h1 style="margin: 0">Opdracht 1</h1>
+<p style="font-size: 2em">Opdracht 1</p>
 
 > `print()`
 
