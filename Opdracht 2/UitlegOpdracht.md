@@ -1,6 +1,6 @@
-<font size="14">Opdracht 2</font>
+# Opdracht 2
 
-> Variabless
+> Variables
 ---
 ```python 
 test = "data"
